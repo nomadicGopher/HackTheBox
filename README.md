@@ -1,4 +1,4 @@
-[HackTheBox Account](https://app.hackthebox.com/users/2141921)
+[HackTheBox Profile Page](https://app.hackthebox.com/users/2141921)
 
 ## Conceptual
 ### TCP vs UDP
