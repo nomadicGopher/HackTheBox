@@ -1,8 +1,10 @@
 [HackTheBox Profile Page](https://app.hackthebox.com/users/2141921)
 
-## Conceptual
-### TCP vs UDP
+# Notes
 
+## Conceptual
+
+### TCP vs UDP
 TCP is generally used for applications requiring reliable, ordered data transmission. The most common TCP ports include:
 
 * HTTP/HTTPS (ports 80 and 443) for web browsing
@@ -20,6 +22,6 @@ UDP is preferred for applications prioritizing speed and low latency over perfec
 * VoIP (port 56): Voice over Internet Protocol used for phone conversations
 
 ## Tools
-### NMap
 
+### NMap
 * `nmap -sV {target}`  Includes the Service Detection flag to describe custom ports purposes.
