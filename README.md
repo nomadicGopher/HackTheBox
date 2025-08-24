@@ -27,4 +27,4 @@ UDP is preferred for applications prioritizing speed and low latency over perfec
 ## Tools
 
 ### nmap (Network Mapper)
-* `nmap -sV {target_IP}`  Includes the Service Detection flag to describe custom ports purposes.
+* `nmap -sV {target_IP}` - Probe open ports to determine service/version info
